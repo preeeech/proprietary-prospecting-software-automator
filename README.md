@@ -1,2 +1,3 @@
 # proprietary-prospecting-software-automator
-For my current office job.
+# Dear Friend
+A tool to automate lead capture straight into your profile with no latency. 
